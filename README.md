@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aslanokan&count_private=true&show_icons=true&theme=merko)
+
+## Github Achievements 
+![trophy](https://github-profile-trophy.vercel.app/?username=aslanokan&rank=SSS)
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aslanokan&layout=compact)
+
