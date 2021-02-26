@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Buy me a tree 🌲](https://ecologi.com/okanaslan)
+
 <!--
 **aslanokan/aslanokan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
