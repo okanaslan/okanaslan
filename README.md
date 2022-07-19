@@ -7,7 +7,7 @@
 ### Languages and Tools
 <p align="left"> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
     <br>
     <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
@@ -41,4 +41,10 @@
 #### Anaytics
 <p align="left"> 
     <a href="https://segment.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/segment/segment-icon.svg" alt="mocha" width="40" height="40"/> </a> 
+    <a href="https://analytics.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-official.svg" alt="mocha" width="40" height="40"/> </a> 
+</p>
+
+#### Message Queue
+<p align="left"> 
+    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="mocha" width="40" height="40"/> </a> 
 </p>
