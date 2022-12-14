@@ -1,8 +1,7 @@
-## Hi there 👋
+## Hi there 👋 
+🌲 [Buy me a tree](https://ecologi.com/okanaslan?r=6038ba5d516b5f001dd03c35) 
 
--   🌲 [Buy me a tree](https://ecologi.com/okanaslan?r=6038ba5d516b5f001dd03c35)
--   👀 [Medium](https://aslanokan.medium.com)
--   🧑‍💻 [SuperPeer](https://superpeer.com/okanaslan)
+👀 [Medium](https://aslanokan.medium.com) 
 
 ### Languages and Tools
 
@@ -127,6 +126,16 @@
         <td>
             <a href="https://kafka.apache.org/" target="_blank">
                 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="kafka" width="64" height="64" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/octokit" target="_blank">
+                <img src="https://avatars.githubusercontent.com/u/3430433?s=200&v=4" alt="octokit" width="64" height="64" />
+            </a>
+        </td>
+        <td>
+            <a href="https://sinonjs.org/" target="_blank">
+                <img src="https://avatars.githubusercontent.com/u/6570253?s=200&v=4" alt="sinon" width="64" height="64" />
             </a>
         </td>
     </tr>
