@@ -1,7 +1,12 @@
 ## Hi there 👋 
-🌲 [Buy me a tree](https://ecologi.com/okanaslan?r=6038ba5d516b5f001dd03c35) 
+> 🌲 [Buy me a tree](https://ecologi.com/okanaslan?r=6038ba5d516b5f001dd03c35)
 
-👀 [Medium](https://aslanokan.medium.com) 
+> 👀 [Medium](https://aslanokan.medium.com) 
+
+### Currently working on
+- React & Next.js
+- WebXR & Three.js & Aframe
+- Unity
 
 ### Languages and Tools
 
