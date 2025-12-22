@@ -2,5 +2,9 @@
 
 I'm Okan, a senior Node.js backend developer with over 6 years of experience. I have a bachelor's degree in Computer Science from Koç University and I specialize in Node.js development. Currently, I'm working on WebXR, where I'm using the latest technologies like Aframe and Three.js to create innovative solutions.
 
+#### Read my Blog
+- [Jest to Vitest](https://blog.ablo.ai/jest-to-vitest-in-nestjs)
+- [Generating API Client from Swagger Documentation](https://blog.ablo.ai/streamlining-api-development)
+
 
 ![WakaTime Stats](https://wakatime.com/share/@okanaslan/08efb46b-1620-4430-944c-a2bf33a887d1.svg)
